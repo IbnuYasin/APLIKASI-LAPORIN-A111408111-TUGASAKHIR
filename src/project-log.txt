@@ -1,0 +1,13 @@
+otomatis show login //done 20-10
+	form validation js
+	
+get nama
+	save nama to local data //done
+	span nama at profile //done
+
+register //done 21-10
+	check username //done
+	prevent close button redirect to index //done
+	form validation js
+
+get laporan //done 22-10
